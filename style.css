@@ -196,3 +196,14 @@ text-align: center;
 .img-3{
     margin-right: 10px;
 }
+
+.form, input{
+    display: inline;
+       width: 700px;
+    height: 64px;
+}
+
+.flower-end{
+    text-align: center;
+    background-image: url("../flower-shop-assignment-main/Rectangle\ 9.png");
+}   
