@@ -25,8 +25,7 @@ font-family: 'Roboto', sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
-    line-height: 30px;
-    
+    line-height: 30px;    
 }
 .banner-title{
     color: #272727;
@@ -62,9 +61,7 @@ margin: 32px;
     align-items: center;
     justify-content:center;
     position: relative;
-    padding-right: 20px;
-
-    
+    padding-right: 20px; 
 }
 
 .flower-1{
@@ -72,10 +69,7 @@ margin: 32px;
     background: rgba(167, 33, 98, 0.15);
     width: 464px;
     height: 538px;
-    margin-right: 40px;
-        
-    
-    
+    margin-right: 40px;   
 }
 .flower-2{
     border-radius: 300px 300px 0px 0px;
@@ -89,25 +83,18 @@ margin: 32px;
     height: 538px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
-
 }
 .f-1{
     width: 310px;
     height: 428px;  
     position:absolute;
     padding: 110px 78px 67px 76px;
-    
-
 }
 .f-2{
     width: 370px;
     height: 370px;
     position:absolute;
-    padding: 117px 47px 118px 47px;
-
-   
-    
-    
+    padding: 117px 47px 118px 47px;   
 }
 .f-3{
     width: 314px;
@@ -120,12 +107,10 @@ display: flex;
 justify-content:space-around;
 padding-bottom: 100px;
 }
-
 .pink-1{
     margin: 20px 0px 0px 250px;
     text-decoration: underline;
     font-weight: bold;
-
 }
 .pink-2{
     margin: 20px 0px 0px 300px;
@@ -133,7 +118,6 @@ padding-bottom: 100px;
     margin-left: 200px;
     text-decoration: underline;
     font-weight: bold;
-    
 }
 .pink-3{
     margin: 20px 0px 0px 150px;
@@ -141,5 +125,24 @@ padding-bottom: 100px;
     margin-left: 100px;
     text-decoration: underline;
     font-weight: bold;
-
+}
+/* service container related styles */
+.service-container{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: auto;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    align-items: center;
+    border: 2px solid palevioletred;
+    width:1400px;
+    height: 250px;
+    padding: 20px;
+    margin-bottom: 100px;
+}
+.service-man{
+    align-items: center;
+    justify-content:center;
+    text-align: center;
 }
