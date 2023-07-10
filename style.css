@@ -6,3 +6,41 @@ body{
     font-family: 'Open Sans', sans-serif;
 font-family: 'Roboto', sans-serif;
 }
+
+.banner-image{
+    width: 440px;
+    padding:50px 70px 0px 50px
+}
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 600px;
+    background: rgba(229, 84, 115, 0.10);
+}
+.banner-text{
+    text-decoration: 50%;
+    color: rgba(39, 39, 39, 0.60);
+    width: 50%;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    
+}
+.banner-title{
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 32px;
+}
+
+.btn-primary{
+    border-radius: 8px;
+background: #E55473;
+padding: 20px 40px;
+margin: 32px;
+}
