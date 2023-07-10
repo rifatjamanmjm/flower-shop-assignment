@@ -61,6 +61,8 @@ margin: 32px;
     display: flex;
     align-items: center;
     justify-content:center;
+    position: relative;
+    padding-right: 20px;
 
     
 }
@@ -70,7 +72,9 @@ margin: 32px;
     background: rgba(167, 33, 98, 0.15);
     width: 464px;
     height: 538px;
-    border-right: 20px;
+    margin-right: 40px;
+        
+    
     
 }
 .flower-2{
@@ -78,6 +82,7 @@ margin: 32px;
     background: rgba(5, 151, 160, 0.15);
     width: 464px;
     height: 538px;
+    margin-right: 40px;
 }
 .flower-3{
     width: 464px;
@@ -87,23 +92,54 @@ margin: 32px;
 
 }
 .f-1{
-    width: 200px;
-    height: 200px;
-    padding-: 150px 60px 50px ;
+    width: 310px;
+    height: 428px;  
+    position:absolute;
+    padding: 110px 78px 67px 76px;
+    
 
 }
 .f-2{
-    width: 310px;
-    height: 428px;
-    position: relative;
-    right:100px
+    width: 370px;
+    height: 370px;
+    position:absolute;
+    padding: 117px 47px 118px 47px;
+
+   
+    
     
 }
 .f-3{
-    width: 310px;
-    height: 428px;
+    width: 314px;
+    height: 471px;
+    position:absolute;
+    padding: 67px 75px 67px 75px;
 }
 .p-description{
 display: flex;
-justify-content: space-around;
+justify-content:space-around;
+padding-bottom: 100px;
+}
+
+.pink-1{
+    margin: 20px 0px 0px 250px;
+    text-decoration: underline;
+    font-weight: bold;
+
+}
+.pink-2{
+    margin: 20px 0px 0px 300px;
+    margin-right: 30px;
+    margin-left: 200px;
+    text-decoration: underline;
+    font-weight: bold;
+    
+}
+.pink-3{
+    margin: 20px 0px 0px 150px;
+    margin-right: 300px;
+    margin-left: 100px;
+    text-decoration: underline;
+    font-weight: bold;
+
 }
