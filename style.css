@@ -158,10 +158,41 @@ padding-bottom: 100px;
 }
 .deal-sale{
     text-align: center;
+
     
 }
 .deal-description{
     width: 70%;
     margin: auto;
     margin-top: 20px;
+}
+
+/* instagram-container related styles */
+.instagram-container{
+text-align: center;
+}
+
+.instagram-title{
+    margin:20px;
+}
+.instagram-description{
+    width: 70%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.insta-img-container{
+    justify-content: center;
+    padding:30px;
+    padding-bottom: 100px;
+}
+
+.img-1{
+    margin-right: 10px;
+}
+.img-2{
+    margin-right: 10px;
+}
+.img-3{
+    margin-right: 10px;
 }
