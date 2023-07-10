@@ -44,3 +44,66 @@ background: #E55473;
 padding: 20px 40px;
 margin: 32px;
 }
+
+#featured-description {
+    padding: 24px 150px;
+    text-align: center;
+}
+.section-title{
+    margin-top: 200px;
+    text-align: center;
+}
+/* flower related styles */
+.section-container{
+    background: #FFF;
+}
+.flower-container{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+
+    
+}
+
+.flower-1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 464px;
+    height: 538px;
+    border-right: 20px;
+    
+}
+.flower-2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 464px;
+    height: 538px;
+}
+.flower-3{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+
+}
+.f-1{
+    width: 200px;
+    height: 200px;
+    padding-: 150px 60px 50px ;
+
+}
+.f-2{
+    width: 310px;
+    height: 428px;
+    position: relative;
+    right:100px
+    
+}
+.f-3{
+    width: 310px;
+    height: 428px;
+}
+.p-description{
+display: flex;
+justify-content: space-around;
+}
