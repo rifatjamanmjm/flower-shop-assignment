@@ -202,10 +202,24 @@ text-align: center;
        width: 700px;
     height: 64px;
 }
-
+.flower-end-conainer {
+   
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    background-repeat: no-repeat;
+    margin-left: 315px;
+}
 .flower-end{
     text-align: center;
-    background-image:url("./image/Rectangle\ 9a.png")
+    background-image:url("./image/Rectangle\ 9a.png");
+    width: 1440px;
+    height: 449px;
+    
+    margin: top 200px;
+
  }
  p {
     padding-bottom: 10px;
@@ -230,7 +244,7 @@ h1 {
 .footer-container{
     width: 100%;
     justify-content: center;
-    margin-left: 280px;
+    margin-left: 100px;
     padding-bottom: 10px;
 }
 
