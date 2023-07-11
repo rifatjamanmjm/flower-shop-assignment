@@ -205,5 +205,56 @@ text-align: center;
 
 .flower-end{
     text-align: center;
-    background-image: url("../flower-shop-assignment-main/Flower\ Asset");
+    background-image:url("./image/Rectangle\ 9a.png")
+ }
+ p {
+    padding-bottom: 10px;
+}
+
+h1 {
+    padding-top: 100px
+}
+
+.footer-div {
+    text-align: center;
+}
+
+.footer-div {
+    background-color: black;
+    width: 1922px;
+    height: 449px;
+    align-items: center;
+}
+
+
+.footer-container{
+    width: 100%;
+    justify-content: center;
+    margin-left: 280px;
+    padding-bottom: 10px;
+}
+
+.footer-headeing {
+    color: #E55473;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    
+}
+
+.s-color {
+    color: white;
+
+}
+.footer-p{
+    color: white;
+    width: 50% auto;
+   
+
+}
+
+.footer-copy{
+    color: white;
 }
